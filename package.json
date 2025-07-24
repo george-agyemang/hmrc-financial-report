@@ -1,0 +1,21 @@
+{
+  "name": "hmrc-financial-report",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "css": "tailwindcss -i ./src/styles.css -o ./public/styles.css --watch"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "chart.js": "^4.4.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16",
+    "vite": "^4.5.0",
+    "@babel/preset-react": "^7.22.5"
+  }
+}
