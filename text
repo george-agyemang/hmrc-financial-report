@@ -1,0 +1,12 @@
+hmrc-financial-report/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── App.jsx
+│   ├── index.js
+│   ├── styles.css
+│   └── tailwind.config.js
+├── package.json
+├── postcss.config.js
+└── README.md
